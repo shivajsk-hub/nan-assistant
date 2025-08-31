@@ -1,0 +1,11 @@
+gradio>=4.40.0
+requests
+feedparser
+duckduckgo-search
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+markdown
+gTTS
+groq
